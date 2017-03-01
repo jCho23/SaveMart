@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2A358551-DAB0-4AE8-B4DD-8C6AFBCC00F3}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SaveMart/Tests.cs">
+    <Files>
+      <File FileName="SaveMart/Tests.cs" Line="1" Column="1" />
+      <File FileName="SaveMart/AppInitializer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SaveMart" expanded="True">
+            <Node name="SaveMart" expanded="True">
+              <Node name="SaveMart" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="Repl" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SaveMart PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
